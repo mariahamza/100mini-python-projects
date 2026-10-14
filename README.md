@@ -1,0 +1,14 @@
+# 🐍 100 Mini Python Projects
+
+A challenge to learn Python by building 100 small projects, one at a time.
+Each project lives in its own folder, from beginner to advanced.
+
+## Why this challenge?
+
+The best way to learn is to build. Small projects, every day, add up. 🔥
+
+## Progress
+
+| # | Project | Concepts |
+|---|---|---|
+| 001 | [Pizza Shop](001-pizza-shop) | list, tuple, dict, set, loops, try/except |
