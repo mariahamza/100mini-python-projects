@@ -5,7 +5,7 @@ Each project lives in its own folder, from beginner to advanced.
 
 ## Why this challenge?
 
-The best way to learn is to build. Small projects, every day, add up. 🔥
+The best way to learn is to build.
 
 ## Progress
 
