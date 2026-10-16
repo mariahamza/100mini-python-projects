@@ -13,3 +13,4 @@ The best way to learn is to build.
 |---|---|---|
 | 001 | [Pizza Shop](pizzashop_firstproject.py) | list, tuple, dict, set, loops, try/except |
 | 002 |[Simple Calculator](calculator_secondproject.py)| dict, try/except, functions, loops        |
+| 003 |[Number Guessing Game](nuguessingame_thirdproject.py)| try/except, if/elif, loops,import modules,f string        |
