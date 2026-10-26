@@ -16,3 +16,4 @@ The best way to learn is to build.
 | 003 |[Number Guessing Game](nguessingame_thirdproject.py)| try/except, if/elif, loops,import modules,f string        |
 | 004 |[Simple To-Do List](todolist.py)| dict, try/except, functions, loops, json, enumerate        |
 | 005 |[Contact Book](contactsbook.py)| dict, try/except, functions, loops, json, enumerate, in, lower()        |
+| 006 |[Plant Tracker](planttracker.py)| dict, try/except, functions, loops, json, enumerate, dates        |
